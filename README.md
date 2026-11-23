@@ -2,6 +2,8 @@
 
 Complete two-site company network designed and configured in Cisco Packet Tracer. A head office and a branch, each a four-floor building, joined by a leased serial line running PPP with CHAP authentication. University coursework project (Computer Networks, Al Ryada University).
 
+![Network topology: head office and branch joined by a PPP/CHAP serial WAN](network-topology.png)
+
 ## What is built
 
 - **124 devices** across two mirrored sites
